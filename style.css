@@ -3,13 +3,13 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Playfair Display', serif;
-  background-color: #48064F;
+  background-color: #6B8E23;
   color: #;
   text-align: center;
 }
 
 header {
-  background-color: #a6b88c;
+  background-color: #6B8E23;
   padding: 30px 20px 10px;
 }
 
@@ -50,7 +50,7 @@ section {
 
 h2 {
   font-size: 1.8em;
-  color: #C7AE6A;
+  color: #6B8E23;
 }
 
 .cake-item {
