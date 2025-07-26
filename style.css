@@ -44,3 +44,32 @@ main {
   max-width: 600px;
   margin: 20px auto;
 }
+.contact {
+  margin-top: 40px;
+}
+
+.contact h2 {
+  font-size: 1.5em;
+  color: #a03030;
+}
+
+.contact p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+.whatsapp-button {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #25D366;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1em;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.whatsapp-button:hover {
+  background-color: #1ebe5c;
+}
