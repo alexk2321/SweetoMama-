@@ -2,15 +2,15 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Playfair Display', serif;
-  background-color: #6B8E23;
-  color: #;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fefdf9;
+  color: #4A5D23;
   text-align: center;
 }
 
 header {
   background-color: #6B8E23;
-  padding: 30px 20px 10px;
+  padding: 40px 20px 20px;
 }
 
 .logo {
@@ -19,17 +19,9 @@ header {
   margin-bottom: 10px;
 }
 
-h1 {
-  font-size: 2.5em;
-  margin: 0;
-  color: #C7AE6A; /* золотой */
-  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
-}
-
-.slogan {
-  font-size: 1.2em;
-  color: #C7AE6A;
-  margin-top: 5px;
+h2 {
+  font-size: 1.8em;
+  color: #6B8E23;
 }
 
 main {
@@ -41,16 +33,11 @@ section {
 }
 
 .about, .catalog, .gallery, .contact {
-  background-color: #EBD6A6;
+  background-color: #f9f9f4;
   padding: 20px;
   border-radius: 10px;
   margin: 20px auto;
   max-width: 700px;
-}
-
-h2 {
-  font-size: 1.8em;
-  color: #6B8E23;
 }
 
 .cake-item {
@@ -64,7 +51,7 @@ h2 {
 .whatsapp-button {
   display: inline-block;
   padding: 12px 20px;
-  background-color: #25D366;
+  background-color: #6B8E23;
   color: white;
   border-radius: 8px;
   text-decoration: none;
@@ -74,12 +61,12 @@ h2 {
 }
 
 .whatsapp-button:hover {
-  background-color: #1ebe5c;
+  background-color: #5A7A1E;
 }
 
 footer {
-  background-color: #d8f5dc;
+  background-color: #f0f5ec;
   padding: 20px;
   font-size: 0.9em;
-  color: #3a5c3a;
+  color: #5c6d50;
 }
